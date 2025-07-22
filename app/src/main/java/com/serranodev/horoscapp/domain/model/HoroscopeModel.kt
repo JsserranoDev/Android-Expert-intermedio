@@ -3,7 +3,7 @@ package com.serranodev.horoscapp.domain.model
 enum class HoroscopeModel {
     Aries,
     Taurus,
-    Gemeni,
+    Gemini,
     Cancer,
     Leo,
     Virgo,

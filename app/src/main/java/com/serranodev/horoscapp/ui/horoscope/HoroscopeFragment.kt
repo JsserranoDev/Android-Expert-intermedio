@@ -50,7 +50,7 @@ class HoroscopeFragment : Fragment() {
                 Aries -> HoroscopeModel.Aries
                 Cancer -> HoroscopeModel.Cancer
                 Capricorn -> HoroscopeModel.Capricorn
-                Gemeni -> HoroscopeModel.Gemeni
+                Gemini -> HoroscopeModel.Gemini
                 Leo -> HoroscopeModel.Leo
                 Libra -> HoroscopeModel.Libra
                 Pisces -> HoroscopeModel.Pisces

@@ -9,7 +9,7 @@ class HoroscopeProvider @Inject constructor() {
         return listOf(
             Aries,
             Taurus,
-            Gemeni,
+            Gemini,
             Cancer,
             Leo,
             Virgo,
